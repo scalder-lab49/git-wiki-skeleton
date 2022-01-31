@@ -70,7 +70,7 @@ kramdown:
 defaults:
  - 
     scope:
-      path: ""
+      path: "."
     values:
       permalink: /:basename
  -
