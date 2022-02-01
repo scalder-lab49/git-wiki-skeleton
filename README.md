@@ -1,7 +1,8 @@
 # Asset Homepage
 
+* Repo is [here](https://github.com/scalder-lab49/git-wiki-skeleton)
 * View rendered wiki [here](https://scalder-lab49.github.io/git-wiki-skeleton/)
-* Create whatever Markdown file you want (with .md suffix) somewhere within the "wiki" subfolder.
+* Create whatever Markdown file you want (with .md suffix) somewhere within the "wiki" subfolder... Or use the "Add new / Edit" etc. buttons from directly in the rendered wiki
 
 # git-wiki-skeleton
 
