@@ -1,3 +1,7 @@
+# Asset Homepage
+
+View rendered wiki [here](https://scalder-lab49.github.io/git-wiki-skeleton/)
+
 # git-wiki-skeleton
 
 NOTE: it's fully supported by github platform, you don't need to install anything locally
